@@ -52,7 +52,7 @@ Most notably:
  - removed deprecated methods:
    - `Interactable`: `squareResize`, `snap`, `restrict`, `inertia`,
      `autoScroll`, `accept`
-   - `interact`: `enabbleDragging`, `enableResizing`, `enableGesturing`,
+   - `interact`: `enableDragging`, `enableResizing`, `enableGesturing`,
      `margin`
  - new `hold` option for starting actions
  - new `interaction.end()` method
